@@ -12,7 +12,7 @@ Nowadays everyone talks that old generation is finished and new generation is ta
 
 In football a team to be successfull needs experience. Teams with only raw talent take time to develop and to achieve theis goals.
 
-**## Assumptions**
+**## Assumptions
 
 - Analysis was only made to Premier League teams
 - If a team has an average age under 26 years old is considered an young team, if a team has an average age over 26 years old is considered an experienced team.
